@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dbbe118a-97ec-43e1-82e3-daf6044ac39d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/posts_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/posts_controller.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/layouts/application.html.erb" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
     </list>
     <ignored path="LiveQuestionApp.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -83,19 +84,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application.html.erb" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="application.html.erb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="38" selection-start="188" selection-end="188" vertical-scroll-proportion="-4.576923">
+            <state line="4" column="32" selection-start="120" selection-end="120" vertical-scroll-proportion="0.17894737">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="posts_controller.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="posts_controller.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/controllers/posts_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="28" selection-start="121" selection-end="121" vertical-scroll-proportion="0.16748768">
+            <state line="4" column="28" selection-start="121" selection-end="121" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -150,8 +151,8 @@
         <option value="$PROJECT_DIR$/test/functional/votes_controller_test.rb" />
         <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/public/stylesheets/application.css" />
-        <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
         <option value="$PROJECT_DIR$/app/controllers/posts_controller.rb" />
+        <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
       </list>
     </option>
   </component>
@@ -308,7 +309,7 @@
       <recent name="C:\Users\GIRISH\Desktop\OOLSPA1\CSC 517 LiveQuestion App\CSC517-LiveQuestionApp\public\stylesheets" />
     </key>
   </component>
-  <component name="RunManager" selected="Rails.Production">
+  <component name="RunManager" selected="Rake.db:migrate">
     <configuration default="false" name="Default" type="com.intellij.persistence.run.ConsoleRunConfigurationType" factoryName="Query Language Console" temporary="true">
       <option name="VM_PARAMETERS" value="" />
       <option name="USER_CFG_CLASS" />
@@ -323,7 +324,7 @@
       <RAKE_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
       <RAKE_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
       <envs>
-        <env name="RAILS_ENV" value="development" />
+        <env name="RAILS_ENV" value="production" />
         <env name="VERSION" value="20111003002823" />
       </envs>
       <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
@@ -829,16 +830,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
+    <entry file="file://$PROJECT_DIR$/app/controllers/posts_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="38" selection-start="188" selection-end="188" vertical-scroll-proportion="-4.576923">
+        <state line="4" column="28" selection-start="121" selection-end="121" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/posts_controller.rb">
+    <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="28" selection-start="121" selection-end="121" vertical-scroll-proportion="0.16748768">
+        <state line="4" column="32" selection-start="120" selection-end="120" vertical-scroll-proportion="0.17894737">
           <folding />
         </state>
       </provider>
