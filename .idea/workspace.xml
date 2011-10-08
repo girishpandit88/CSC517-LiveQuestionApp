@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dbbe118a-97ec-43e1-82e3-daf6044ac39d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/application.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/comment_votes.js.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/comments.js.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/jquery-ui-1.8.13.custom.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/posts.js.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/users.js.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/votes.js.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/stylesheets/application.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/layouts/application.html.erb" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
     </list>
     <ignored path="LiveQuestionApp.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -104,7 +95,7 @@
       <file leaf-file-name="application.html.erb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="30" selection-start="151" selection-end="151" vertical-scroll-proportion="0.23480663">
+            <state line="7" column="38" selection-start="188" selection-end="188" vertical-scroll-proportion="0.32872927">
               <folding />
             </state>
           </provider>
@@ -840,7 +831,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="30" selection-start="151" selection-end="151" vertical-scroll-proportion="0.23480663">
+        <state line="7" column="38" selection-start="188" selection-end="188" vertical-scroll-proportion="0.32872927">
           <folding />
         </state>
       </provider>
